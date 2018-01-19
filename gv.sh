@@ -1,5 +1,3 @@
-read
-
 echo "请输入你的cURL(bash)"
 read curl
 
